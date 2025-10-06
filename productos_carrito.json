@@ -16,5 +16,70 @@
       "title": "Funda de piel",
       "price": "79.99"
     }
+    {
+      "SKU": "0000000001",
+      "title": "Consola PlayStation 5 1TB",
+      "price": "549.99"
+    },
+    {
+      "SKU": "0000000002",
+      "title": "Consola PlayStation 5 Edicion digital 856GB",
+      "price": "499.99"
+    },
+    {
+      "SKU": "0000000003",
+      "title": "Consola PlayStation 5 Edicion digital - 30th Aniversario",
+      "price": "549.99"
+    },
+    {
+      "SKU": "0000000004",
+      "title": "Consola PlayStation 5 Pro",
+      "price": "799.99"
+    },
+    {
+      "SKU": "0000000005",
+      "title": "Mando inalambrico DualSense - God of War 20th Anniversary Limited Edition",
+      "price": "89.99"
+    },
+    {
+      "SKU": "0000000006",
+      "title": "Mando inalambrico DualSense - Edicion limitada 30 aniversario",
+      "price": "79.99"
+    },
+    {
+      "SKU": "0000000007",
+      "title": "Mando inalambrico DualSense - Ghost of Yotei Black Limited Edition ",
+      "price": "84.99"
+    },
+    {
+      "SKU": "0000000008",
+      "title": "Mando inalambrico Dualsense - Ghost of Yotei Gold Edición Limitada",
+      "price": "84.99"
+    },
+    {
+      "SKU": "0000000009",
+      "title": "Mando inalambrico DualSense - ASTROBOT Joyful Limited Edition",
+      "price": "84.99"
+    },
+    {
+      "SKU": "00000000A1",
+      "title": "Mando inalambrico DualSense - Volcanic Red",
+      "price": "79.99"
+    },
+    {
+      "SKU": "00000000A2",
+      "title": "Mando inalambrico DualSense - Nova Pink",
+      "price": "79.99"
+    },
+    {
+      "SKU": "00000000A3",
+      "title": "PlayStation Portal reproductor a distancia - Midnight Black",
+      "price": "219.99"
+    },
+    {
+      "SKU": "00000000A4",
+      "title": "PlayStation Portal reproductor a distancia - Edicion limitada 30 aniversario",
+      "price": "239.99"
+    }
   ]
 }

@@ -292,7 +292,7 @@ document.addEventListener("DOMContentLoaded", ()=> {
 
 
     //Obtenemos mediante el fecth los datos de la API
-    fetch("https://jsonblob.com/api/1421811651841286144")
+    fetch("https://mocki.io/v1/e118dd9a-c92f-4bb6-ab6e-d06f3edd8ecc")
     .then(response => response.json())
     .then(productos => {
         cargarProductos(productos);
